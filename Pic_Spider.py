@@ -19,6 +19,8 @@ def getHtmlImg(event):
     name = self.filename.GetValue()
     regop = self.regularop.GetValue()
     reged = self.regulared.GetValue()
+    if regop.strip() == '':
+        regop = "src="
     url = self.urlpath.GetValue()
     page = urllib.urlopen(url)
     html = page.read()
