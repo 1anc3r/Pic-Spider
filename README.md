@@ -1,4 +1,4 @@
-# PicSpider
+# Pic Spider
 ## Summary
 Pic Spider in Python, Ansi-style
 I was going to write a Baidu-tieba spider, now can capture multiple web-sites because of adding function.
