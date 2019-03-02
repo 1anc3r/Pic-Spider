@@ -18,9 +18,6 @@ img style="height: 700px;" src="https://unsplash.imgix.net/photo-1429095687696-3
 you can know, src = "path of image" is cited pictures format, but keyword prefix and suffix may not the same, here is " class" (with particular attention to the spaces), baidu is mostly "pic_sytle", different period ties' format aren't the same.
 5. step, in the 4th text box "Url:" input the URL, and then click on the "DownLoad" button, if you do not download the success, please check the key word.
 
-## Demo
-<img src="http://o7gy5l0ax.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20160520203038.png" width = "400" height = "223" alt="File Management" />
-
 ## About Me
 A student of Xi'an University of Posts and Telecommunications in mainland China. Currently learning Android development.
 My blog address is [www.1anc3r.me](www.1anc3r.me). Welcome to offer me an internship. If you have any idea about this project, feel free to contact me. :smiley:
